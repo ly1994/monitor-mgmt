@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id" : 1,
+      "username": "chenqiming",
+      "password": "chenqiming",
+      "realname":"陈启明"
+    },
+
+    {
+      "id": 2,
+      "username": "lijian",
+      "password": "lijian",
+      "realname":"李戬"
+    }
+  ]
+}
