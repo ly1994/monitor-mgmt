@@ -6,7 +6,7 @@
       <ul class="nav navbar-top-links navbar-right">
         <li>
                         <span class="m-r-sm text-muted welcome-message"><a href="/home" title="返回首页"><i
-                          class="fa fa-home"></i></a>欢迎使用辅助交易系统开发监控管理系统</span>
+                          class="fa fa-home"></i></a>欢迎登陆辅助设计与开发管理系统</span>
         </li>
         <li class="dropdown">
           <a class="dropdown-toggle count-info" data-toggle="dropdown" href="#">
