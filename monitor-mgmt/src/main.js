@@ -10,6 +10,8 @@ Vue.config.productionTip = false
 Vue.use(VueResource)
 
 
+import '../static/js/jquery-2.1.1.min.js'
+
 import '../static/js/bootstrap.min.js'
 
 import '../static/js/plugins/metisMenu/jquery.metisMenu.js'
@@ -21,6 +23,7 @@ import '../static/js/hplus.js?v=2.2.0'
 import '../static/js/skin.js'
 
 import '../static/js/plugins/pace/pace.min.js'
+
 
 new Vue({
   el: '#app',

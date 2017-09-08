@@ -60,7 +60,7 @@
                     <tr>
                       <th>组件</th>
                       <th>类型</th>
-                      <th>接口数</th>
+                      <!--<th>接口数</th>-->
                       <th>更新日期</th>
                       <th>状态</th>
                     </tr>
@@ -70,7 +70,7 @@
                       <td>ts-s-jdbc</td>
                       <td><span class="pie">IS</span>
                       </td>
-                      <td>3</td>
+                      <!--<td>3</td>-->
                       <td>2017.09.07</td>
                       <td><a href="#"><i class="fa fa-check text-navy"></i></a>
                       </td>
@@ -79,7 +79,7 @@
                       <td>ts-s-redis</td>
                       <td><span class="pie">IS</span>
                       </td>
-                      <td>14</td>
+                      <!--<td>14</td>-->
                       <td>2017.08.10</td>
                       <td><a href="#"><i class="fa fa-check text-navy"></i></a>
                       </td>
@@ -88,7 +88,7 @@
                       <td>ts-u-crv</td>
                       <td><span class="pie">AU</span>
                       </td>
-                      <td>120</td>
+                      <!--<td>120</td>-->
                       <td>2017.08.10</td>
                       <td><a href="#"><i class="fa fa-check text-navy"></i></a>
                       </td>
@@ -96,8 +96,8 @@
                     <tr>
                       <td>ts-u-job</td>
                       <td><span class="pie">DU</span>
-                      </td>
-                      <td>16</td>
+                     </td>
+                      <!--<td>16</td>-->
                       <td>2017.08.10</td>
                       <td><a href="#"><i class="fa fa-check text-navy"></i></a>
                       </td>
@@ -106,7 +106,7 @@
                       <td>ts-s-ric</td>
                       <td><span class="pie">DS</span>
                       </td>
-                      <td>12</td>
+                      <!--<td>12</td>-->
                       <td>2017.08.30</td>
                       <td><a href="#"><i class="fa fa-check text-navy"></i></a>
                       </td>

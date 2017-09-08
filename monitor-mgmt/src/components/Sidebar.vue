@@ -44,7 +44,7 @@
             <li>
               <router-link to="/service">服务与组件</router-link>
             </li>
-            <li><a href="#">组件依赖关系</a>
+            <li><router-link to="/dependency">组件依赖关系</router-link>
             </li>
             <li><a href="#">组件与数据表</a>
             </li>
@@ -73,18 +73,21 @@
         </li>
 
 
-
         <li>
           <a href="#"><i class="fa fa fa-comments"></i> <span class="nav-label">开发质量</span><span
             class="fa arrow"></span></a>
           <ul class="nav nav-second-level">
             <li><a href="#">代码质量(Sonar)</a>
             </li>
-            <li><a href="#">开发统计</a>
+            <li><a href="#">开发量统计</a>
+            </li>
+            <li><a href="#">组件与单元测试</a>
             </li>
             <li><a href="#">开发互评</a>
             </li>
             <li><a href="#">缺陷统计</a>
+            </li>
+            <li><a href="#">开发规范</a>
             </li>
             <li><a href="#">问题记录</a>
             </li>
@@ -97,11 +100,14 @@
           <ul class="nav nav-second-level">
             <li><a href="#">全局依赖</a>
             </li>
+
             <li><a href="#">依赖图谱</a>
             </li>
             <li><a href="#">错误依赖</a>
             </li>
             <li><a href="#">依赖分析</a>
+            </li>
+            <li><a href="#">新增数据</a>
             </li>
 
           </ul>
@@ -116,6 +122,13 @@
             </li>
             <li><a href="#">领域设计与开发DEMO</a>
             </li>
+            <li><a href="#">CQRS</a>
+            </li>
+            <li><a href="#">EDA</a>
+            </li>
+            <li><a href="#">ACTOR</a>
+            </li>
+
 
           </ul>
         </li>
@@ -134,6 +147,8 @@
             <li><a href="#">接口设计</a>
             </li>
             <li><a href="#">安全设计</a>
+            </li>
+            <li><a href="#">日志设计</a>
             </li>
             <li><a href="#">API文档</a>
             </li>
